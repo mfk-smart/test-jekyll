@@ -1,4 +1,4 @@
-baseurl: /test-jekyll/
+baseurl: /test-jekyll
 collections:
   authors:
     output: true
