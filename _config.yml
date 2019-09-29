@@ -1,3 +1,4 @@
+baseurl: https://mfk-smart.github.io/test-jekyll/ 
 collections:
   authors:
     output: true
